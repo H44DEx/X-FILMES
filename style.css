@@ -12,6 +12,7 @@ header {
 .header-container {
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .logo {
@@ -21,6 +22,7 @@ header {
 
 .search-form {
     display: flex;
+    margin-left: auto;
 }
 
 .search-input {
