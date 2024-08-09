@@ -6,7 +6,7 @@ body, html {
 
 header {
     background-color: #000; /* Faixa preta */
-    padding: 20px 30px;
+    padding: 10px 20px;
 }
 
 .header-container {
@@ -16,7 +16,7 @@ header {
 }
 
 .logo {
-    width: 300px; /* Altere o tamanho conforme necessário */
+    width: 150px; /* Altere o tamanho conforme necessário */
     height: auto;
 }
 
