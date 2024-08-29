@@ -6,6 +6,9 @@ body {
     background-image: url(' ');
     display: grid;
     align-items: center;
+    align-self: center;
+    align-content: center;
+    align-tracks: center;
 }
 
 h1 {
