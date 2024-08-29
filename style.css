@@ -5,10 +5,10 @@ body {
     font-style: normal;
     background-image: url(' ');
     display: grid;
+    align-items: center;
 }
 
 h1 {
-    align-self: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 200px;
 }
