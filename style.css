@@ -9,6 +9,7 @@ body {
     align-self: center;
     align-content: center;
     align-tracks: center;
+    line-height: 2px;
 }
 
 h1 {
